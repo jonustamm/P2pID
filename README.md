@@ -1,2 +1,2 @@
 # P2pID
-Next Generation Internet authentication mechanism
+Next generation internet authentication mechanism
